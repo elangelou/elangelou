@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eleni Angelou
+- 👀 I’m interested in Large Language Models, especially behavioral evaluations and mechanistic interpretability.
+- 🌱 I’m currently learning how to implement a transformer from scratch!
