@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Eleni Angelou.
-- 👀 I’m interested in understanding how Large Language Model brains work.
-- 🌱 I’m currently learning how to implement a transformer from scratch.
+- Hi, I’m Eleni Angelou.
+- I study how Large Language Model brains work.
+- I’m currently learning how to implement and train a transformer from scratch.
