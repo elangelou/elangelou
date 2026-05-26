@@ -1,2 +1,1 @@
-I study Large Language Model brains a.k.a. Mechanistic Interpretability.
-Occasionally blogging at https://www.lesswrong.com/users/eleni-angelou.
+I study large language model brains. Occasionally blogging at https://www.lesswrong.com/users/eleni-angelou.
